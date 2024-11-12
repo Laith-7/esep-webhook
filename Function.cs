@@ -34,4 +34,4 @@ public class Function
             
         return reader.ReadToEnd();
     }
-}git add .
+}
